@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git config --global user.email t27742664@gmail.com
+git add .
+git commit -m "20200824_15_38"
+git push origin master
